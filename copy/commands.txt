@@ -1,0 +1,1 @@
+This file is copied from the main directory using the cp command: cp commands.txt copy
